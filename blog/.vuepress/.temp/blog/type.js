@@ -1,4 +1,4 @@
-export const typeMap = {"post":{"/":{"path":"/","keys":["v-1b6b6053","v-1b6b60cf","v-44755bac","v-9728b424","v-7f60f4e6","v-35b0adfe","v-72b9d083","v-0abd0086","v-ef15f804","v-52e160df","v-4b441409"]}}}
+export const typeMap = {"post":{"/":{"path":"/","keys":["v-1b6b6053","v-1b6b6072","v-1b6b6091","v-1b6b60b0","v-1b6b60cf","v-44755bac","v-9728b424"]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

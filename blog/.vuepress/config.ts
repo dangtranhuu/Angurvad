@@ -2,6 +2,26 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
 import { gungnirTheme } from "vuepress-theme-gungnir";
 
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+	apiKey: "AIzaSyAwT2Z-hMtohDflO0fliu-dxmjpuxjA5fU",
+	authDomain: "angurvad-5559e.firebaseapp.com",
+	projectId: "angurvad-5559e",
+	storageBucket: "angurvad-5559e.appspot.com",
+	messagingSenderId: "908813697862",
+	appId: "1:908813697862:web:c2d4e7769a6f514ae7db47",
+	measurementId: "G-5RDHC2ETQ0"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
 const isProd = process.env.NODE_ENV === "production";
 
 export default defineUserConfig({
@@ -44,7 +64,7 @@ export default defineUserConfig({
 	bundler: viteBundler(),
 
 	theme: gungnirTheme({
-		repo: "Renovamen/blog.zxh.io",
+		repo: "Theanishtar/angurvad",
 		docsDir: "blog",
 		docsBranch: "master",
 		navbarTitle: "Angurvad",
@@ -140,7 +160,7 @@ export default defineUserConfig({
 				icon: "fa-fort-awesome"
 			},
 			{
-				text: "Tổng hợp",
+				text: "Bài viết",
 				link: "/tags/",
 				icon: "fa-tag"
 			},
