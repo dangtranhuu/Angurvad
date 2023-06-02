@@ -29,7 +29,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2022/01/29/travel-to-boston/",
+    "path": "/post/2022/01/29/about-me/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -65,6 +65,12 @@ export const searchIndex = [
       },
       {
         "level": 2,
+        "title": "Các tính năng",
+        "slug": "cac-tinh-nang",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "Công nghệ sử dụng",
         "slug": "cong-nghe-su-dung",
         "children": []
@@ -76,7 +82,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2022/02/21/new-year-2022/",
+    "path": "/post/2022/02/21/about-project/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -235,6 +241,242 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
+    "title": "Giới thiệu về Java Core",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Đôi nét về Java",
+        "slug": "_1-đoi-net-ve-java",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Điểm mạnh của Java",
+        "slug": "_2-điem-manh-cua-java",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "3. Cài đặt JDK",
+        "slug": "_3-cai-đat-jdk",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "4. Cài đặt Công cụ lập trình",
+        "slug": "_4-cai-đat-cong-cu-lap-trinh",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "5. Tạo một chương tình Java đơn giản",
+        "slug": "_5-tao-mot-chuong-tinh-java-đon-gian",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "6. Phương thức main",
+        "slug": "_6-phuong-thuc-main",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "7. Hàm in ra màn hình",
+        "slug": "_7-ham-in-ra-man-hinh",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "8. Chú thích",
+        "slug": "_8-chu-thich",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "9. Compile file .class",
+        "slug": "_9-compile-file-class",
+        "children": []
+      }
+    ],
+    "path": "/post/2023/06/02/javacore-about/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Sử dụng biến, toán tử và các kiểu dữ liệu trong Java",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Các kiểu dữ liệu nguyên thủy",
+        "slug": "_1-cac-kieu-du-lieu-nguyen-thuy",
+        "children": [
+          {
+            "level": 3,
+            "title": "Tổng hợp các kiểu dữ liệu nguyên thủy trong Java",
+            "slug": "tong-hop-cac-kieu-du-lieu-nguyen-thuy-trong-java",
+            "children": [
+              {
+                "level": 4,
+                "title": "Nên sử dụng số thực là float hay double :",
+                "slug": "nen-su-dung-so-thuc-la-float-hay-double",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2. Kiểu dữ liệu không nguyên thuỷ",
+        "slug": "_2-kieu-du-lieu-khong-nguyen-thuy",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "3. Biến",
+        "slug": "_3-bien",
+        "children": [
+          {
+            "level": 3,
+            "title": "Khởi tạo biến",
+            "slug": "khoi-tao-bien",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Quy tắc đặt biến",
+            "slug": "quy-tac-đat-bien",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Hiển thị biến",
+            "slug": "hien-thi-bien",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "4. Toán tử",
+        "slug": "_4-toan-tu",
+        "children": [
+          {
+            "level": 3,
+            "title": "Toán tử số học (Arithmetic)",
+            "slug": "toan-tu-so-hoc-arithmetic",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Toán tử gán (Assignment)",
+            "slug": "toan-tu-gan-assignment",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Toán tử so sánh (Comparision)",
+            "slug": "toan-tu-so-sanh-comparision",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Toán tử logic (Logical)",
+            "slug": "toan-tu-logic-logical",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Toán tử Bit (Bitwise)",
+            "slug": "toan-tu-bit-bitwise",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/post/2023/06/02/javacore-data-type/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Vòng lặp trong Java",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Vòng lặp while",
+        "slug": "_1-vong-lap-while",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Vòng lặp do..while",
+        "slug": "_2-vong-lap-do-while",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "3. Vòng lặp for",
+        "slug": "_3-vong-lap-for",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "4. Vòng lặp for..Each",
+        "slug": "_4-vong-lap-for-each",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "5. Điều khiển vòng lặp",
+        "slug": "_5-đieu-khien-vong-lap",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "6. Gắn nhãn vòng lặp",
+        "slug": "_6-gan-nhan-vong-lap",
+        "children": []
+      }
+    ],
+    "path": "/post/2023/06/02/javacore-forwhile/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Cấu trúc rẽ nhánh trong Java",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Câu lệnh điều kiện",
+        "slug": "cau-lenh-đieu-kien",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "1. Lệnh if..else",
+        "slug": "_1-lenh-if-else",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Lệnh switch..case",
+        "slug": "_2-lenh-switch-case",
+        "children": []
+      }
+    ],
+    "path": "/post/2023/06/02/javacore-ifelse/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "Links",
     "headers": [],
     "path": "/tech/",
@@ -291,24 +533,27 @@ export const searchIndex = [
     "layout": "Tags"
   },
   {
+    "title": "Java Core | Tags",
+    "headers": [],
+    "path": "/tags/java-core/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
     "title": "Home",
     "headers": [],
     "path": "/page/1/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "HomePage"
+  },
+  {
+    "title": "Home",
+    "headers": [],
+    "path": "/page/2/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "HomePage"
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

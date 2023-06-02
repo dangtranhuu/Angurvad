@@ -1,6 +1,7 @@
 import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
 import { gungnirTheme } from "vuepress-theme-gungnir";
+// import { giscusPlugin } from "vuepress-plugin-giscus";
 
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
@@ -74,7 +75,8 @@ export default defineUserConfig({
 		personalInfo: {
 			name: "Theanishtar",
 			avatar: "/img/avatar.jpg",
-			description: "いつか、私がヒトじゃなくなっても",
+			// description: "いつか、私がヒトじゃなくなっても",
+			description: "Môi trường học tập thú vị dành cho sinh viên CNTT",
 			sns: {
 				github: "theanishtar",
 				linkedin: "tranhuudang",
@@ -135,12 +137,26 @@ export default defineUserConfig({
 			git: isProd,
 			katex: true,
 			giscus: {
+				// repo: "dangth12/blog-giscus-comments",
+				// repoId: "R_kgDOJpeyjQ",
+				// category: "Announcements",
+				// categoryId: "DIC_kwDOJpeyjc4CW2KP",
+				// mapping: "pathname",  // optional, string, default="title"
+				lang: "vi",  // optional, string, default="auto" (follow the site's language, fall to "en" if your site's language is not supported by Giscus)
+				// lazyLoad: true,  // optional, boolean, default=false (if true, loading of Giscus will be deferred until the user scrolls near the comments container)
+				// crossorigin: "anonymous",  // optional, string, default="anonymous"
+				darkTheme: "https://blog.zxh.io/styles/giscus-dark.css",
+
+				// repo: "This-is-an-Apple/gitalk-comments",
+				// repoId: "MDEwOlJlcG9zaXRvcnkyMTA1MjQyMTQ=",
+				// category: "Announcements",
+				// categoryId: "DIC_kwDODIxYNs4CAO1u",
+
 				repo: "dangth12/blog-giscus-comments",
 				repoId: "R_kgDOJpeyjQ",
 				category: "Announcements",
-				categoryId: "DIC_kwDOJpeyjc4CW2KP",
-				darkTheme: "https://blog.zxh.io/styles/giscus-dark.css",
-				lang: "vi"
+				categoryId: "DIC_kwDOJpeyjc4CW2KO",
+				lazyLoad: true
 			},
 			mdPlus: {
 				all: true
@@ -196,7 +212,7 @@ export default defineUserConfig({
 		code: {
 			lineNumbers: false
 		}
-	}
+	},
 });
 
 
