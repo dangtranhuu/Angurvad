@@ -1,13 +1,5 @@
 export const searchIndex = [
   {
-    "title": "Links",
-    "headers": [],
-    "path": "/tech/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Links"
-  },
-  {
     "title": "Tìm hiểu về mình",
     "subtitle": "Mình là ai?",
     "headers": [
@@ -524,6 +516,14 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
+    "title": "Links",
+    "headers": [],
+    "path": "/tech/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Links"
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/404.html",
@@ -596,3 +596,16 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}
