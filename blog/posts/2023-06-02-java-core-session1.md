@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Giới thiệu về Java Core
+title: Bài 1. Giới thiệu về Java Core
 subtitle: Lập trình Java căn bản
 author: Theanishtar
 date: 2023-06-02
@@ -12,7 +12,7 @@ tags:
   - Java Core
 ---
 
-Cùng mình tìm hiểu về Java cơ bản trong bài viết này !!!
+Java là ngôn ngữ chuyên về Hướng đối tượng và rất thông dụng. Cùng mình tìm hiểu về Java cơ bản trong bài viết này !!!
 
 <!-- more -->
 

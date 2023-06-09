@@ -1,4 +1,4 @@
-<template><div><p><strong>REST</strong> là gì?  <strong>REST</strong> – viết đầy đủ là <strong>REpresentational State Transfer</strong> – là một chuẩn trong lập trình, nó định nghĩa các quy tắc để tạo ra các web service nhằm cung cấp các chức năng truy xuất, thêm mới, cập nhật tài nguyên từ xa qua http.  Restful API diễn dịch lại dữ liệu giữa các hệ thống ứng dụng và máy tính, tạo nên khả năng truyền tải dữ liệu đơn giản mà hiệu quả, phục vụ trao đổi dữ liệu giữa các nền tảng khác nhau và xa nhau.</p>
+<template><div><p>Công cuộc cuối cùng để tới với một Lập trình viên BackEnd NodeJS lad xây dựng APIs. Cùng mình thực hiện nhá</p>
 <!-- more -->
 <hr>
 <p>Với Restful, bạn sẽ tạo nên khả năng truy cập tài nguyên cho client thông qua các URI. Dữ liệu trả về sẽ trong dạng json, xml, html nhưng chủ yếu là json. Restful sử dụng HTTP như cỗ xe chuyên chở dữ liệu giữa server và client qua các method GET, HEAD, POST, PUT, PATCH, DELETE…</p>

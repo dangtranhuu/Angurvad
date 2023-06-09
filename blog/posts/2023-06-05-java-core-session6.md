@@ -1,7 +1,7 @@
 ---
 layout: Post
-title: Chuỗi trong Java
-subtitle: Lập trình Java căn bản
+title: Bài 6. Chuỗi trong Java
+subtitle:  Lập trình Java căn bản
 author: Theanishtar
 date: 2023-06-07
 useHeaderImage: false

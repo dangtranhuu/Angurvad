@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Tìm hiểu về Ejs - view engine temple tiện lợi của NodeJS
+title: Tìm hiểu về Ejs - view engine template tiện lợi của NodeJS
 subtitle: Lập trình NodeJS
 author: Theanishtar
 date: 2023-05-31
@@ -12,8 +12,7 @@ tags:
   - NodeJS
 ---
 
-NodeJS là một thư viện (đôi khi còn được xem như một framework) của ngôn ngữ lập trình JavaScript.
-Cùng với ExpressJS, MongoDB. NodeJS có thể tạo ra một webapp fullstack như **MEAN** hay **MERN**  một cách đơn giản và nhanh chóng.
+EJS là template engine server của NodeJS. Một trang giao diện với EJS nhé
 
 
 <!-- more -->

@@ -127,14 +127,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Links",
-    "headers": [],
-    "path": "/tech/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Links"
-  },
-  {
     "title": "Tìm hiểu về mình",
     "subtitle": "Mình là ai?",
     "headers": [
@@ -239,7 +231,7 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "Tìm hiểu về Ejs - view engine temple tiện lợi của NodeJS",
+    "title": "Tìm hiểu về Ejs - view engine template tiện lợi của NodeJS",
     "subtitle": "Lập trình NodeJS",
     "headers": [
       {
@@ -376,7 +368,7 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "Giới thiệu về Java Core",
+    "title": "Bài 1. Giới thiệu về Java Core",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -440,7 +432,7 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "Sử dụng biến, toán tử và các kiểu dữ liệu trong Java",
+    "title": "Bài 2. Sử dụng biến, toán tử và các kiểu dữ liệu trong Java",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -545,13 +537,13 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/02/java-core-session2/",
+    "path": "/post/2023/06/03/java-core-session2/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
   },
   {
-    "title": "Cấu trúc rẽ nhánh trong Java",
+    "title": "Bài 3. Cấu trúc rẽ nhánh trong Java",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -624,13 +616,13 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2023/06/02/java-core-session3/",
+    "path": "/post/2023/06/04/java-core-session3/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
   },
   {
-    "title": "Vòng lặp trong Java",
+    "title": "Bài 4. Vòng lặp trong Java",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -708,13 +700,13 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/02/java-core-session4/",
+    "path": "/post/2023/06/05/java-core-session4/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
   },
   {
-    "title": "Mảng trong Java",
+    "title": "Bài 5. Mảng trong Java",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -818,13 +810,13 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/05/java-core-session5/",
+    "path": "/post/2023/06/06/java-core-session5/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
   },
   {
-    "title": "Chuỗi trong Java",
+    "title": "Bài 6. Chuỗi trong Java",
     "subtitle": "Lập trình Java căn bản",
     "headers": [
       {
@@ -840,14 +832,14 @@ export const searchIndex = [
         "children": [
           {
             "level": 3,
-            "title": "Khai báo không khởi tạo phần tử",
-            "slug": "khai-bao-khong-khoi-tao-phan-tu",
+            "title": "Khai báo không khởi tạo giá trị",
+            "slug": "khai-bao-khong-khoi-tao-gia-tri",
             "children": []
           },
           {
             "level": 3,
-            "title": "Khai báo có khởi tạo phần tử",
-            "slug": "khai-bao-co-khoi-tao-phan-tu",
+            "title": "Khai báo có khởi tạo giá trị",
+            "slug": "khai-bao-co-khoi-tao-gia-tri",
             "children": []
           }
         ]
@@ -856,18 +848,31 @@ export const searchIndex = [
         "level": 2,
         "title": "3. Các tính chất",
         "slug": "_3-cac-tinh-chat",
+        "children": [
+          {
+            "level": 3,
+            "title": "Ký tự đặc biệt",
+            "slug": "ky-tu-đac-biet",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "4. Các phương thức của Chuỗi",
+        "slug": "_4-cac-phuong-thuc-cua-chuoi",
         "children": []
       },
       {
         "level": 2,
-        "title": "4. Độ dài của mảng",
-        "slug": "_4-đo-dai-cua-mang",
+        "title": "5. Xuất chuỗi",
+        "slug": "_5-xuat-chuoi",
         "children": []
       },
       {
         "level": 2,
-        "title": "5. Duyệt mảng",
-        "slug": "_5-duyet-mang",
+        "title": "6. Duyệt chuỗi",
+        "slug": "_6-duyet-chuoi",
         "children": [
           {
             "level": 3,
@@ -885,44 +890,43 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "6. Mảng đa chiều",
-        "slug": "_6-mang-đa-chieu",
-        "children": [
-          {
-            "level": 3,
-            "title": "Ví dụ mảng 2 chiều",
-            "slug": "vi-du-mang-2-chieu",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Ví dụ mảng 3 chiều",
-            "slug": "vi-du-mang-3-chieu",
-            "children": []
-          }
-        ]
+        "title": "7. Nối chuỗi",
+        "slug": "_7-noi-chuoi",
+        "children": []
       },
       {
         "level": 2,
-        "title": "7. Bài tập",
-        "slug": "_7-bai-tap",
+        "title": "8. Lưu ý",
+        "slug": "_8-luu-y",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "9. Bài tập",
+        "slug": "_9-bai-tap",
         "children": [
           {
             "level": 3,
-            "title": "7.1 Dùng vòng lặp For để tính tổng các số trong mảng",
-            "slug": "_7-1-dung-vong-lap-for-đe-tinh-tong-cac-so-trong-mang",
+            "title": "9.1 Xuất tên chuẩn hóa cấp độ 1",
+            "slug": "_9-1-xuat-ten-chuan-hoa-cap-đo-1",
             "children": []
           },
           {
             "level": 3,
-            "title": "7.2 Đảo ngược các phần tử trong mảng.",
-            "slug": "_7-2-đao-nguoc-cac-phan-tu-trong-mang",
+            "title": "9.2 Xuất tên chuẩn hóa cấp độ 2",
+            "slug": "_9-2-xuat-ten-chuan-hoa-cap-đo-2",
             "children": []
           },
           {
             "level": 3,
-            "title": "7.3 In các phần tử trùng nhau trong mảng",
-            "slug": "_7-3-in-cac-phan-tu-trung-nhau-trong-mang",
+            "title": "9.3 Xuất tên chuẩn hóa cấp độ 3",
+            "slug": "_9-3-xuat-ten-chuan-hoa-cap-đo-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "9.4 Xuất tên chuẩn hóa cấp độ 4",
+            "slug": "_9-4-xuat-ten-chuan-hoa-cap-đo-4",
             "children": []
           }
         ]
@@ -932,6 +936,244 @@ export const searchIndex = [
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
+  },
+  {
+    "title": "Bài 7. Phương thức trong Java",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Khái niệm",
+        "slug": "_1-khai-niem",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Khai báo",
+        "slug": "_2-khai-bao",
+        "children": [
+          {
+            "level": 3,
+            "title": "Phương thức không có dữ liệu trả về",
+            "slug": "phuong-thuc-khong-co-du-lieu-tra-ve",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Phương thức có dữ liệu trả về",
+            "slug": "phuong-thuc-co-du-lieu-tra-ve",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "3. Tham số và đối số trong phương thức",
+        "slug": "_3-tham-so-va-đoi-so-trong-phuong-thuc",
+        "children": [
+          {
+            "level": 3,
+            "title": "Tham số",
+            "slug": "tham-so",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Đối số",
+            "slug": "đoi-so",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "4. Giá trị trả về",
+        "slug": "_4-gia-tri-tra-ve",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "5. Phạm vi của biến",
+        "slug": "_5-pham-vi-cua-bien",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "6. Hàm đệ quy",
+        "slug": "_6-ham-đe-quy",
+        "children": [
+          {
+            "level": 3,
+            "title": "Thành phần trong hàm đệ quy gồm những gì?",
+            "slug": "thanh-phan-trong-ham-đe-quy-gom-nhung-gi",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Các ưu điểm, hạn chế và điều kiện để thực hiện đệ quy",
+            "slug": "cac-uu-điem-han-che-va-đieu-kien-đe-thuc-hien-đe-quy",
+            "children": [
+              {
+                "level": 4,
+                "title": "Ưu điểm của đệ quy",
+                "slug": "uu-điem-cua-đe-quy",
+                "children": []
+              },
+              {
+                "level": 4,
+                "title": "Về nhược điểm của đệ quy",
+                "slug": "ve-nhuoc-điem-cua-đe-quy",
+                "children": []
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "title": "Để viết được đệ quy cần đảm bảo yếu tố gì?",
+            "slug": "đe-viet-đuoc-đe-quy-can-đam-bao-yeu-to-gi",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Ứng dụng cụ thể của Đệ quy",
+            "slug": "ung-dung-cu-the-cua-đe-quy",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/post/2023/06/08/java-core-session7/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Tổng kết. Bài tập cuối môn Java căn bản",
+    "subtitle": "Lập trình Java căn bản",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Đề bài",
+        "slug": "_1-đe-bai",
+        "children": []
+      }
+    ],
+    "path": "/post/2023/06/09/java-core-session8/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Giới thiệu về lập trình hướng đối tượng trong Java",
+    "subtitle": "Lập trình hướng đối tượng với Java",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Khái niệm",
+        "slug": "_1-khai-niem",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Phân biệt lập trình cấu trúc và hướng đối tượng",
+        "slug": "_2-phan-biet-lap-trinh-cau-truc-va-huong-đoi-tuong",
+        "children": [
+          {
+            "level": 3,
+            "title": "Lập trình cấu trúc là gì",
+            "slug": "lap-trinh-cau-truc-la-gi",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tại sao hướng đối tượng có ưu thế hơn",
+            "slug": "tai-sao-huong-đoi-tuong-co-uu-the-hon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "3. Lập trình hướng đối tượng",
+        "slug": "_3-lap-trinh-huong-đoi-tuong",
+        "children": [
+          {
+            "level": 3,
+            "title": "Ví dụ:",
+            "slug": "vi-du",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "4. Biểu diễn bằng code",
+        "slug": "_4-bieu-dien-bang-code",
+        "children": [
+          {
+            "level": 3,
+            "title": "Tạo project",
+            "slug": "tao-project",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo lớp đối tượng",
+            "slug": "tao-lop-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo thuộc tính cho đối tượng",
+            "slug": "tao-thuoc-tinh-cho-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo phương thức cho đối tượng",
+            "slug": "tao-phuong-thuc-cho-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo đối tượng từ lớp khác",
+            "slug": "tao-đoi-tuong-tu-lop-khac",
+            "children": [
+              {
+                "level": 4,
+                "title": "Gọi lại đối tượng",
+                "slug": "goi-lai-đoi-tuong",
+                "children": []
+              },
+              {
+                "level": 4,
+                "title": "Xuất giá trị thuộc tính",
+                "slug": "xuat-gia-tri-thuoc-tinh",
+                "children": []
+              },
+              {
+                "level": 4,
+                "title": "Gọi phương thức của đối tượng",
+                "slug": "goi-phuong-thuc-cua-đoi-tuong",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "path": "/post/2023/06/09/java-oop-session1/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Links",
+    "headers": [],
+    "path": "/tech/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Links"
   },
   {
     "title": "",
@@ -990,6 +1232,14 @@ export const searchIndex = [
     "layout": "Tags"
   },
   {
+    "title": "Java OOP | Tags",
+    "headers": [],
+    "path": "/tags/java-oop/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
     "title": "Home",
     "headers": [],
     "path": "/page/1/",
@@ -1006,16 +1256,3 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

@@ -1,9 +1,9 @@
 ---
 layout: Post
-title: Sử dụng biến, toán tử và các kiểu dữ liệu trong Java 
+title: Bài 2. Sử dụng biến, toán tử và các kiểu dữ liệu trong Java 
 subtitle: Lập trình Java căn bản
 author: Theanishtar
-date: 2023-06-02
+date: 2023-06-03
 useHeaderImage: true
 headerImage: /img/in-post/2020-02-24/header.jpg
 headerMask: rgba(39, 62, 77, 0.61)
@@ -12,7 +12,7 @@ tags:
   - Java Core
 ---
 
- Biến là đối tượng cơ bản nhất trong lập trình, dùng để lưu giá trị.
+ Biến là đối tượng cơ bản nhất trong lập trình, dùng để lưu giá trị. Vậy biến trong Java là gì ta 🤔
 
 <!-- more -->
 

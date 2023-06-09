@@ -1,9 +1,9 @@
 ---
 layout: Post
-title: Vòng lặp trong Java
+title: Bài 4. Vòng lặp trong Java
 subtitle: Lập trình Java căn bản
 author: Theanishtar
-date: 2023-06-02
+date: 2023-06-05
 useHeaderImage: true
 headerImage: /img/in-post/2020-10-07/header.jpg
 headerMask: rgba(30, 69, 110, 0.61)

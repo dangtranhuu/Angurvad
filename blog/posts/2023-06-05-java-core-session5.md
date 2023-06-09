@@ -1,9 +1,9 @@
 ---
 layout: Post
-title: Mảng trong Java
+title: Bài 5. Mảng trong Java
 subtitle: Lập trình Java căn bản
 author: Theanishtar
-date: 2023-06-05
+date: 2023-06-06
 useHeaderImage: false
 headerImage: /img/in-post/2020-10-07/header.jpg
 headerMask: rgba(30, 69, 110, 0.61)

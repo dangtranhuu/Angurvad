@@ -1,9 +1,9 @@
 ---
 layout: Post
-title: Cấu trúc rẽ nhánh trong Java
+title: Bài 3. Cấu trúc rẽ nhánh trong Java
 subtitle: Lập trình Java căn bản
 author: Theanishtar
-date: 2023-06-02
+date: 2023-06-04
 useHeaderImage: true
 headerImage: /img/in-post/2020-08-24/header.jpg
 headerMask: rgba(39, 71, 77, 0.61)
@@ -12,7 +12,7 @@ tags:
   - Java Core
 ---
 
-Cùng mình tìm hiểu về Cấu trúc rẽ nhánh trong Java nha
+IF ELSE thì ngôn ngữ nào cũng có, mà không biết trong Java có khác gì không ta 🤔
 
 <!-- more -->
 

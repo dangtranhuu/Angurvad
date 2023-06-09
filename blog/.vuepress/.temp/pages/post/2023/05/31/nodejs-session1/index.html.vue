@@ -1,5 +1,4 @@
-<template><div><p>NodeJS là một thư viện (đôi khi còn được xem như một framework) của ngôn ngữ lập trình JavaScript.
-Cùng với ExpressJS, MongoDB. NodeJS có thể tạo ra một webapp fullstack như <strong>MEAN</strong> hay <strong>MERN</strong>  một cách đơn giản và nhanh chóng.</p>
+<template><div><p>NodeJS là một thư viện (đôi khi còn được xem như một framework) của ngôn ngữ lập trình JavaScript. Cùng mình xây dựng server đơn giản với NodeJS nha</p>
 <!-- more -->
 <hr>
 <p>NodeJS được thịnh hành dạo gần đây và được rất nhiều lập trình viên ưa chuộng, với cú pháp ngắn gọn, đơn giản NodeJS ngày càng được cộng đồng phát triển và học tập một cách mạnh mẻ.</p>

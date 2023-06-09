@@ -13,7 +13,7 @@ tags:
   - RestAPI
 ---
 
- **REST** là gì?  **REST** – viết đầy đủ là **REpresentational State Transfer** – là một chuẩn trong lập trình, nó định nghĩa các quy tắc để tạo ra các web service nhằm cung cấp các chức năng truy xuất, thêm mới, cập nhật tài nguyên từ xa qua http.  Restful API diễn dịch lại dữ liệu giữa các hệ thống ứng dụng và máy tính, tạo nên khả năng truyền tải dữ liệu đơn giản mà hiệu quả, phục vụ trao đổi dữ liệu giữa các nền tảng khác nhau và xa nhau.
+Công cuộc cuối cùng để tới với một Lập trình viên BackEnd NodeJS lad xây dựng APIs. Cùng mình thực hiện nhá
 
 
 

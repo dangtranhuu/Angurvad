@@ -12,8 +12,7 @@ tags:
   - NodeJS
 ---
 
-NodeJS là một thư viện (đôi khi còn được xem như một framework) của ngôn ngữ lập trình JavaScript.
-Cùng với ExpressJS, MongoDB. NodeJS có thể tạo ra một webapp fullstack như **MEAN** hay **MERN**  một cách đơn giản và nhanh chóng.
+Khi đã đủ kiến thức cơ bản, hãy cùng mình xâu dựng một **_CRUD app_** với NodeJS thoy lào
 
 
 <!-- more -->
