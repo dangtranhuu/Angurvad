@@ -1078,6 +1078,110 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
+    "title": "Giới thiệu về lập trình hướng đối tượng trong Java",
+    "subtitle": "Lập trình hướng đối tượng với Java",
+    "headers": [
+      {
+        "level": 2,
+        "title": "1. Khái niệm",
+        "slug": "_1-khai-niem",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2. Phân biệt lập trình cấu trúc và hướng đối tượng",
+        "slug": "_2-phan-biet-lap-trinh-cau-truc-va-huong-đoi-tuong",
+        "children": [
+          {
+            "level": 3,
+            "title": "Lập trình cấu trúc là gì",
+            "slug": "lap-trinh-cau-truc-la-gi",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tại sao hướng đối tượng có ưu thế hơn",
+            "slug": "tai-sao-huong-đoi-tuong-co-uu-the-hon",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "3. Lập trình hướng đối tượng",
+        "slug": "_3-lap-trinh-huong-đoi-tuong",
+        "children": [
+          {
+            "level": 3,
+            "title": "Ví dụ:",
+            "slug": "vi-du",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "4. Biểu diễn bằng code",
+        "slug": "_4-bieu-dien-bang-code",
+        "children": [
+          {
+            "level": 3,
+            "title": "Tạo project",
+            "slug": "tao-project",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo lớp đối tượng",
+            "slug": "tao-lop-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo thuộc tính cho đối tượng",
+            "slug": "tao-thuoc-tinh-cho-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo phương thức cho đối tượng",
+            "slug": "tao-phuong-thuc-cho-đoi-tuong",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo đối tượng từ lớp khác",
+            "slug": "tao-đoi-tuong-tu-lop-khac",
+            "children": [
+              {
+                "level": 4,
+                "title": "Gọi lại đối tượng",
+                "slug": "goi-lai-đoi-tuong",
+                "children": []
+              },
+              {
+                "level": 4,
+                "title": "Xuất giá trị thuộc tính",
+                "slug": "xuat-gia-tri-thuoc-tinh",
+                "children": []
+              },
+              {
+                "level": 4,
+                "title": "Gọi phương thức của đối tượng",
+                "slug": "goi-phuong-thuc-cua-đoi-tuong",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "path": "/ebook/java-oop/session1/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "Tìm hiểu về NodeJS và xử lý request đơn giản",
     "subtitle": "Lập trình NodeJS",
     "headers": [
@@ -1231,110 +1335,6 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "Giới thiệu về lập trình hướng đối tượng trong Java",
-    "subtitle": "Lập trình hướng đối tượng với Java",
-    "headers": [
-      {
-        "level": 2,
-        "title": "1. Khái niệm",
-        "slug": "_1-khai-niem",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "2. Phân biệt lập trình cấu trúc và hướng đối tượng",
-        "slug": "_2-phan-biet-lap-trinh-cau-truc-va-huong-đoi-tuong",
-        "children": [
-          {
-            "level": 3,
-            "title": "Lập trình cấu trúc là gì",
-            "slug": "lap-trinh-cau-truc-la-gi",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tại sao hướng đối tượng có ưu thế hơn",
-            "slug": "tai-sao-huong-đoi-tuong-co-uu-the-hon",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "3. Lập trình hướng đối tượng",
-        "slug": "_3-lap-trinh-huong-đoi-tuong",
-        "children": [
-          {
-            "level": 3,
-            "title": "Ví dụ:",
-            "slug": "vi-du",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "4. Biểu diễn bằng code",
-        "slug": "_4-bieu-dien-bang-code",
-        "children": [
-          {
-            "level": 3,
-            "title": "Tạo project",
-            "slug": "tao-project",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo lớp đối tượng",
-            "slug": "tao-lop-đoi-tuong",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo thuộc tính cho đối tượng",
-            "slug": "tao-thuoc-tinh-cho-đoi-tuong",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo phương thức cho đối tượng",
-            "slug": "tao-phuong-thuc-cho-đoi-tuong",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo đối tượng từ lớp khác",
-            "slug": "tao-đoi-tuong-tu-lop-khac",
-            "children": [
-              {
-                "level": 4,
-                "title": "Gọi lại đối tượng",
-                "slug": "goi-lai-đoi-tuong",
-                "children": []
-              },
-              {
-                "level": 4,
-                "title": "Xuất giá trị thuộc tính",
-                "slug": "xuat-gia-tri-thuoc-tinh",
-                "children": []
-              },
-              {
-                "level": 4,
-                "title": "Gọi phương thức của đối tượng",
-                "slug": "goi-phuong-thuc-cua-đoi-tuong",
-                "children": []
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "path": "/ebook/java-oop/session1/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Post"
-  },
-  {
     "title": "",
     "headers": [],
     "path": "/404.html",
@@ -1399,6 +1399,14 @@ export const searchIndex = [
     "layout": "Tags"
   },
   {
+    "title": "Java OOP | Tags",
+    "headers": [],
+    "path": "/tags/java-oop/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
     "title": "NodeJS | Tags",
     "headers": [],
     "path": "/tags/nodejs/",
@@ -1410,14 +1418,6 @@ export const searchIndex = [
     "title": "RestAPI | Tags",
     "headers": [],
     "path": "/tags/restapi/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
-  },
-  {
-    "title": "Java OOP | Tags",
-    "headers": [],
-    "path": "/tags/java-oop/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"
@@ -1439,3 +1439,16 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}
