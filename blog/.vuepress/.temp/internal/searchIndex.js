@@ -215,154 +215,168 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "Tìm hiểu về NodeJS và xử lý request đơn giản",
-    "subtitle": "Lập trình NodeJS",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Nội dung chính",
-        "slug": "noi-dung-chinh",
-        "children": []
-      }
-    ],
-    "path": "/post/2023/05/31/nodejs-session1/",
+    "title": "Links",
+    "headers": [],
+    "path": "/tech/",
     "pathLocale": "/",
     "extraFields": [],
-    "layout": "Post"
+    "layout": "Links"
   },
   {
-    "title": "Tìm hiểu về Ejs - view engine template tiện lợi của NodeJS",
-    "subtitle": "Lập trình NodeJS",
+    "title": "Giới thiệu về cấu trúc dữ liệu và giải thuật",
+    "subtitle": "Cấu trúc dữ liệu và giải thuật",
     "headers": [
       {
         "level": 2,
-        "title": "Nội dung chính",
-        "slug": "noi-dung-chinh",
-        "children": []
-      }
-    ],
-    "path": "/post/2023/05/31/nodejs-session2/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Post"
-  },
-  {
-    "title": "Xử lí các params trong đối tượng form bằng NodeJS",
-    "subtitle": "Lập trình NodeJS",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Nội dung chính",
-        "slug": "noi-dung-chinh",
-        "children": []
-      }
-    ],
-    "path": "/post/2023/05/31/nodejs-session3/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Post"
-  },
-  {
-    "title": "Tạo tính năng CRUD bằng NodeJS",
-    "subtitle": "Lập trình NodeJS",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Nội dung chính",
-        "slug": "noi-dung-chinh",
-        "children": []
-      }
-    ],
-    "path": "/post/2023/05/31/nodejs-session4/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Post"
-  },
-  {
-    "title": "Restfull API đơn giản với NodeJS",
-    "subtitle": "Lập trình NodeJS",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Các quy định http method trong restful",
-        "slug": "cac-quy-đinh-http-method-trong-restful",
+        "title": "DSA là gì?",
+        "slug": "dsa-la-gi",
         "children": []
       },
       {
         "level": 2,
-        "title": "Khi request đến một tài nguyên, các status code sẽ trả về client :",
-        "slug": "khi-request-đen-mot-tai-nguyen-cac-status-code-se-tra-ve-client",
+        "title": "Cấu trúc dữ liệu là gì?",
+        "slug": "cau-truc-du-lieu-la-gi",
         "children": []
       },
       {
         "level": 2,
-        "title": "Thực hiện restful api trong nodejs",
-        "slug": "thuc-hien-restful-api-trong-nodejs",
+        "title": "Thuật toán là gì?",
+        "slug": "thuat-toan-la-gi",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Làm thế nào để bắt đầu học DSA?",
+        "slug": "lam-the-nao-đe-bat-đau-hoc-dsa",
         "children": [
           {
             "level": 3,
-            "title": "Chuẩn bị database",
-            "slug": "chuan-bi-database",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Cài module express và express-generator",
-            "slug": "cai-module-express-va-express-generator",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo project để thực tập",
-            "slug": "tao-project-đe-thuc-tap",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo model kết nối db",
-            "slug": "tao-model-ket-noi-db",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tạo route",
-            "slug": "tao-route",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Thực hiện chức năng danh sách record",
-            "slug": "thuc-hien-chuc-nang-danh-sach-record",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Thực hiện lấy chi tiết record",
-            "slug": "thuc-hien-lay-chi-tiet-record",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Thực hiện chức năng thêm record",
-            "slug": "thuc-hien-chuc-nang-them-record",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Thực hiện chức năng cập nhật record",
-            "slug": "thuc-hien-chuc-nang-cap-nhat-record",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Thực hiện chức năng xóa record",
-            "slug": "thuc-hien-chuc-nang-xoa-record",
+            "title": "1. Tìm hiểu về Sự phức tạp",
+            "slug": "_1-tim-hieu-ve-su-phuc-tap",
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "Tổng kết",
+        "slug": "tong-ket",
+        "children": []
       }
     ],
-    "path": "/post/2023/05/31/nodejs-session5/",
+    "path": "/ebook/dsa/session1/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Cấu trúc danh sách đặc",
+    "subtitle": "Cấu trúc dữ liệu và giải thuật",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Danh sách đặc là gì?",
+        "slug": "danh-sach-đac-la-gi",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Mảng",
+        "slug": "mang",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Chuỗi",
+        "slug": "chuoi",
+        "children": []
+      }
+    ],
+    "path": "/ebook/dsa/session2/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Danh sách liên kết",
+    "subtitle": "Cấu trúc dữ liệu và giải thuật",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Danh sách liên kết là gì?",
+        "slug": "danh-sach-lien-ket-la-gi",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Tại sao cần cấu trúc dữ liệu danh sách liên kết?",
+        "slug": "tai-sao-can-cau-truc-du-lieu-danh-sach-lien-ket",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Các loại danh sách liên kết:",
+        "slug": "cac-loai-danh-sach-lien-ket",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. Danh sách liên kết đơn:",
+            "slug": "_1-danh-sach-lien-ket-đon",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. Danh sách liên kết kép:",
+            "slug": "_2-danh-sach-lien-ket-kep",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. Danh mục liên kết thông tư:",
+            "slug": "_3-danh-muc-lien-ket-thong-tu",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Hoạt động trên danh sách liên kết",
+        "slug": "hoat-đong-tren-danh-sach-lien-ket",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Ưu điểm của danh sách liên kết",
+        "slug": "uu-điem-cua-danh-sach-lien-ket",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Thực hành",
+        "slug": "thuc-hanh",
+        "children": [
+          {
+            "level": 3,
+            "title": "Sử dụng linkedList.h",
+            "slug": "su-dung-linkedlist-h",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Sử dụng sentenceList.h",
+            "slug": "su-dung-sentencelist-h",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Kết thúc:",
+        "slug": "ket-thuc",
+        "children": []
+      }
+    ],
+    "path": "/ebook/dsa/session3/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -426,7 +440,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2023/06/02/java-core-session1/",
+    "path": "/ebook/java-core/session1/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -537,7 +551,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/03/java-core-session2/",
+    "path": "/ebook/java-core/session2/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -616,7 +630,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2023/06/04/java-core-session3/",
+    "path": "/ebook/java-core/session3/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -700,7 +714,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/05/java-core-session4/",
+    "path": "/ebook/java-core/session4/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -810,7 +824,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/06/java-core-session5/",
+    "path": "/ebook/java-core/session5/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -932,7 +946,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/07/java-core-session6/",
+    "path": "/ebook/java-core/session6/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -1042,7 +1056,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/08/java-core-session7/",
+    "path": "/ebook/java-core/session7/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -1058,7 +1072,160 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/post/2023/06/09/java-core-session8/",
+    "path": "/ebook/java-core/session8/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Tìm hiểu về NodeJS và xử lý request đơn giản",
+    "subtitle": "Lập trình NodeJS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Nội dung chính",
+        "slug": "noi-dung-chinh",
+        "children": []
+      }
+    ],
+    "path": "/ebook/nodejs/session1/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Tìm hiểu về Ejs - view engine template tiện lợi của NodeJS",
+    "subtitle": "Lập trình NodeJS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Nội dung chính",
+        "slug": "noi-dung-chinh",
+        "children": []
+      }
+    ],
+    "path": "/ebook/nodejs/session2/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Xử lí các params trong đối tượng form bằng NodeJS",
+    "subtitle": "Lập trình NodeJS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Nội dung chính",
+        "slug": "noi-dung-chinh",
+        "children": []
+      }
+    ],
+    "path": "/ebook/nodejs/session3/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Tạo tính năng CRUD bằng NodeJS",
+    "subtitle": "Lập trình NodeJS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Nội dung chính",
+        "slug": "noi-dung-chinh",
+        "children": []
+      }
+    ],
+    "path": "/ebook/nodejs/session4/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "Restfull API đơn giản với NodeJS",
+    "subtitle": "Lập trình NodeJS",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Các quy định http method trong restful",
+        "slug": "cac-quy-đinh-http-method-trong-restful",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Khi request đến một tài nguyên, các status code sẽ trả về client :",
+        "slug": "khi-request-đen-mot-tai-nguyen-cac-status-code-se-tra-ve-client",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Thực hiện restful api trong nodejs",
+        "slug": "thuc-hien-restful-api-trong-nodejs",
+        "children": [
+          {
+            "level": 3,
+            "title": "Chuẩn bị database",
+            "slug": "chuan-bi-database",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Cài module express và express-generator",
+            "slug": "cai-module-express-va-express-generator",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo project để thực tập",
+            "slug": "tao-project-đe-thuc-tap",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo model kết nối db",
+            "slug": "tao-model-ket-noi-db",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tạo route",
+            "slug": "tao-route",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Thực hiện chức năng danh sách record",
+            "slug": "thuc-hien-chuc-nang-danh-sach-record",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Thực hiện lấy chi tiết record",
+            "slug": "thuc-hien-lay-chi-tiet-record",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Thực hiện chức năng thêm record",
+            "slug": "thuc-hien-chuc-nang-them-record",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Thực hiện chức năng cập nhật record",
+            "slug": "thuc-hien-chuc-nang-cap-nhat-record",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Thực hiện chức năng xóa record",
+            "slug": "thuc-hien-chuc-nang-xoa-record",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/ebook/nodejs/session5/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -1162,18 +1329,10 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/post/2023/06/09/java-oop-session1/",
+    "path": "/ebook/java-oop/session1/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
-  },
-  {
-    "title": "Links",
-    "headers": [],
-    "path": "/tech/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Links"
   },
   {
     "title": "",
@@ -1208,6 +1367,38 @@ export const searchIndex = [
     "layout": "Tags"
   },
   {
+    "title": "Data structures | Tags",
+    "headers": [],
+    "path": "/tags/data-structures/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Algorithms | Tags",
+    "headers": [],
+    "path": "/tags/algorithms/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "DSA | Tags",
+    "headers": [],
+    "path": "/tags/dsa/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Java Core | Tags",
+    "headers": [],
+    "path": "/tags/java-core/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
     "title": "NodeJS | Tags",
     "headers": [],
     "path": "/tags/nodejs/",
@@ -1219,14 +1410,6 @@ export const searchIndex = [
     "title": "RestAPI | Tags",
     "headers": [],
     "path": "/tags/restapi/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
-  },
-  {
-    "title": "Java Core | Tags",
-    "headers": [],
-    "path": "/tags/java-core/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"

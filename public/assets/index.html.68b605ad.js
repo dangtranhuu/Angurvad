@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-df504da6","path":"/tags/java-oop/","title":"Java OOP | Tags","lang":"en-US","frontmatter":{"title":"Java OOP | Tags","layout":"Tags","blog":{"type":"category","name":"Java OOP","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};
